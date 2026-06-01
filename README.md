@@ -1,56 +1,159 @@
-# 👋 Hi, I'm Tarun
+<!-- Header -->
+<div align="center">
 
-🎓 B.Tech in Artificial Intelligence & Data Science (2023–2027)  
-📍 Chennai, India  
-💡 Aspiring AI/ML Engineer building real-world, deployable ML systems  
+```
+████████╗ █████╗ ██████╗ ██╗   ██╗███╗   ██╗
+╚══██╔══╝██╔══██╗██╔══██╗██║   ██║████╗  ██║
+   ██║   ███████║██████╔╝██║   ██║██╔██╗ ██║
+   ██║   ██╔══██║██╔══██╗██║   ██║██║╚██╗██║
+   ██║   ██║  ██║██║  ██║╚██████╔╝██║ ╚████║
+   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
+```
 
-I specialize in **Computer Vision, Applied Machine Learning, and AI-powered Full-Stack Applications**.  
-I focus on building systems that don’t just train models — but solve measurable problems.
+### `{ AI/ML Developer }`
 
----
+*Building intelligent systems, predictive pipelines, and AI-powered applications that solve real problems.*
 
-## 🚀 Tech Stack
+[![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff88)](https://linkedin.com/in/tarunp)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/tarun05-design)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:tarunparthasarathy65@gmail.com)
 
-### 🧠 Machine Learning & Data
-- Python (NumPy, Pandas, Scikit-Learn)
-- OpenCV (Computer Vision)
-- SQL (MySQL)
-- EDA, Feature Engineering, Model Evaluation
-- Power BI
+![Profile Views](https://komarev.com/ghpvc/?username=tarun05-design&color=00ff88&style=flat-square&label=VISITORS)
 
-### 🌐 Full-Stack AI Systems
-- Next.js
-- TypeScript
-- Firebase
-- Google Gemini API
-- REST APIs & Cloud Basics
+</div>
 
 ---
 
-## 🏆 Highlight Projects
-
-### 🔹 SnapClass – Face Recognition Attendance System
-- Reduced manual attendance errors by **90%**
-- Real-time facial recognition using KNN
-- Automated attendance logging
-
-### 🔹 FoodSnap – AI Food Recognition App
-- Image-to-recipe & nutrition generation
-- Reduced manual data handling by **40%**
-- Built with Next.js + Gemini API + Firebase
+```
+> whoami
+  tarun@dev ~ $ AI/ML Developer
+```
 
 ---
 
-## 📊 Impact Snapshot
+## ⚫ `// about_me.json`
 
-- Processed & cleaned **10,000+ real-world data rows**
-- Improved dataset quality by **~30%**
-- Built end-to-end ML pipelines
-- Deployed AI-powered applications
+```json
+{
+  "name"      : "Tarun P",
+  "role"      : "AI/ML Developer",
+  "education" : "B.Tech — Artificial Intelligence & Data Science (2023–2027)",
+  "location"  : "Chennai, Tamil Nadu, India",
+  "focus"     : ["Computer Vision", "Applied Machine Learning", "Full-Stack AI Systems"],
+  "building"  : ["Face Recognition Systems", "Predictive ML Pipelines", "AI-Powered Analytics Apps"],
+  "currently" : "Building deployable ML systems that solve measurable, real-world problems",
+  "motto"     : "Don't just train models — ship solutions."
+}
+```
 
 ---
 
-## 📫 Connect With Me
+## ⚙️ `// tech_stack`
 
-LinkedIn: https://www.linkedin.com/in/tarun-parthasarathy/  
-Email: tarunparthasarathy65@gmail.com
+**Programming Languages**
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff88)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+
+**Data Science & Machine Learning**
+
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00ff88)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-000000?style=for-the-badge&logo=xgboost&logoColor=00ff88)
+![Imbalanced-learn](https://img.shields.io/badge/Imbalanced--learn-000000?style=for-the-badge&logo=python&logoColor=white)
+
+**Computer Vision**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=00ff88)
+![face_recognition](https://img.shields.io/badge/face__recognition-000000?style=for-the-badge&logo=python&logoColor=white)
+
+**Web Development & Backend**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00ff88)
+![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white)
+
+**Data Visualization & BI**
+
+![Power BI](https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=00ff88)
+![Plotly](https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=python&logoColor=white)
+
+**Cloud & Tools**
+
+![OCI](https://img.shields.io/badge/Oracle_Cloud-000000?style=for-the-badge&logo=oracle&logoColor=00ff88)
+![AWS](https://img.shields.io/badge/AWS_Fundamentals-000000?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=00ff88)
+
+---
+
+## 🚀 `// featured_projects`
+
+---
+
+### `01` · **SnapClass — Face Recognition Attendance System**
+> `Aug 2025 – Oct 2025` · **AI/ML Project Developer**
+
+```
+Stack: Python · OpenCV · face_recognition · Scikit-learn · KNN · Flask · MySQL
+```
+
+A Flask-based AI attendance management system that automates student tracking through facial recognition. Integrates OpenCV and `face_recognition` for real-time detection, with KNN classification for accurate identification from group photos — all connected to MySQL for persistent storage and reporting.
+
+**Impact**
+- ✦ Eliminated manual attendance effort through automated recognition workflows
+- ✦ Improved identification accuracy and streamlined class-wise reporting
+- ✦ Scalable to multiple classes and large student groups
+
+---
+
+### `02` · **SentinelIQ — Predictive Maintenance Fleet Intelligence Dashboard**
+> `2026` · **Machine Learning & Analytics Developer**
+
+```
+Stack: Python · Pandas · NumPy · Scikit-learn · XGBoost · Imbalanced-learn · Plotly · Streamlit
+```
+
+An end-to-end ML pipeline for industrial machine failure prediction, featuring engineered domain-specific features (Temperature Difference, Power Proxy), class-imbalance handling, and an interactive Streamlit dashboard with real-time risk scoring and automated maintenance scheduling.
+
+**Impact**
+- ✦ Achieved high Recall to minimize missed machine failure predictions
+- ✦ Improved predictive discrimination on class-imbalanced industrial datasets
+- ✦ Automated fleet-wide KPI monitoring and maintenance prioritization
+
+---
+
+### `03` · **Automated CSV Analyst — AI-Powered Analytics Platform**
+> `Jan 2025 – Present` · **Full-Stack AI & Data Analytics Developer**
+
+```
+Stack: Python · Streamlit · Pandas · Plotly · Scikit-learn · Gemini API · SciPy · statsmodels
+```
+
+A full-stack CSV analytics platform with automated dataset-type detection, actionable insight generation with severity scoring, K-Means clustering with elbow-method visualization, and Gemini 2.0 Flash integration for natural language dataset querying. Exports tailored markdown reports for Analyst, Executive, and Student personas.
+
+**Impact**
+- ✦ Significantly reduced manual analytical effort through automated insight pipelines
+- ✦ Enabled natural language querying of raw datasets via Gemini API
+- ✦ Enhanced data interpretation with interactive drill-down dashboards
+
+---
+
+
+<div align="center">
+
+`STATUS` · **● OPEN TO OPPORTUNITIES** · `CHENNAI, IN`
+
+`📫` [tarunparthasarathy65@gmail.com](mailto:tarunparthasarathy65@gmail.com) · [linkedin.com/in/tarunp](https://linkedin.com/in/tarunp) · [github.com/tarun05-design](https://github.com/tarun05-design)
+
+</div>
