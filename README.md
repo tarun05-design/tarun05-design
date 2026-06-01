@@ -39,7 +39,7 @@
   "role"      : "AI/ML Developer & AI Full-Stack Developer",
   "education" : "B.Tech — Artificial Intelligence & Data Science (2023–2027)",
   "location"  : "Chennai, Tamil Nadu, India",
-  "focus"     : ["Computer Vision", "Applied Machine Learning", "Full-Stack AI Systems"],
+  "focus"     : ["Data Science", "Applied Machine Learning", "Full-Stack AI Systems"],
   "building"  : ["Face Recognition Systems", "Predictive ML Pipelines", "AI-Powered Analytics Apps"],
   "currently" : "Building deployable ML systems that solve measurable, real-world problems",
   "motto"     : "Don't just train models — ship solutions."
@@ -108,7 +108,7 @@
 Stack: Python · OpenCV · face_recognition · Scikit-learn · KNN · Flask · MySQL
 ```
 
-A Flask-based AI attendance management system that automates student tracking through facial recognition. Integrates OpenCV and `face_recognition` for real-time detection, with KNN classification for accurate identification from group photos — all connected to MySQL for persistent storage and reporting.
+A Flask-based AI attendance management system that automates student tracking through facial recognition on group photos. Integrates OpenCV and `face_recognition` for real-time detection, with KNN classification for accurate identification from group photos — all connected to MySQL for persistent storage and reporting.
 
 **Impact**
 - ✦ Eliminated manual attendance effort through automated recognition workflows
