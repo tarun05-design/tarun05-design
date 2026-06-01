@@ -10,7 +10,7 @@
    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
 ```
 
-### `{ AI/ML Developer }`
+### `{ AI/ML Developer }` · `< AI Full-Stack Developer />`
 
 *Building intelligent systems, predictive pipelines, and AI-powered applications that solve real problems.*
 
@@ -26,7 +26,7 @@
 
 ```
 > whoami
-  tarun@dev ~ $ AI/ML Developer
+  tarun@dev ~ $ AI/ML Developer | AI Full-Stack Developer
 ```
 
 ---
@@ -36,7 +36,7 @@
 ```json
 {
   "name"      : "Tarun P",
-  "role"      : "AI/ML Developer",
+  "role"      : "AI/ML Developer & AI Full-Stack Developer",
   "education" : "B.Tech — Artificial Intelligence & Data Science (2023–2027)",
   "location"  : "Chennai, Tamil Nadu, India",
   "focus"     : ["Computer Vision", "Applied Machine Learning", "Full-Stack AI Systems"],
@@ -147,8 +147,21 @@ A full-stack CSV analytics platform with automated dataset-type detection, actio
 - ✦ Enabled natural language querying of raw datasets via Gemini API
 - ✦ Enhanced data interpretation with interactive drill-down dashboards
 
----
+### `04` · **Smart Diet — Personalized Diet Recommendation System**
+> `Aug 2025 – Oct 2025` · **AI/ML Project Developer**
 
+```
+Stack: Python · Streamlit · Pandas · NumPy · Scikit-learn · Random Forest · MySQL
+```
+
+A Streamlit-based smart diet system that recommends personalized diet plans based on user health details, BMI, food preferences, and fitness goals. Uses a Random Forest model to generate food recommendations and MySQL to store user profiles and diet-related data.
+
+**Impact**
+- ✦ Generated personalized diet recommendations based on individual user inputs
+- ✦ Automated the meal suggestion process using ML-based recommendation logic
+- ✦ Simplified diet planning through an intuitive, easy-to-use web interface
+
+---
 
 <div align="center">
 
