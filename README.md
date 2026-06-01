@@ -39,7 +39,7 @@
   "role"      : "AI/ML Developer & AI Full-Stack Developer",
   "education" : "B.Tech — Artificial Intelligence & Data Science (2023–2027)",
   "location"  : "Chennai, Tamil Nadu, India",
-  "focus"     : ["Data Science", "Applied Machine Learning", "Full-Stack AI Systems"],
+  "focus"     : ["Computer Vision", "Applied Machine Learning", "Full-Stack AI Systems"],
   "building"  : ["Face Recognition Systems", "Predictive ML Pipelines", "AI-Powered Analytics Apps"],
   "currently" : "Building deployable ML systems that solve measurable, real-world problems",
   "motto"     : "Don't just train models — ship solutions."
@@ -108,12 +108,12 @@
 Stack: Python · OpenCV · face_recognition · Scikit-learn · KNN · Flask · MySQL
 ```
 
-A Flask-based AI attendance management system that automates student tracking through facial recognition on group photos. Integrates OpenCV and `face_recognition` for real-time detection, with KNN classification for accurate identification from group photos — all connected to MySQL for persistent storage and reporting.
+A Flask-based AI attendance management system that automates student tracking through facial recognition. Integrates OpenCV and `face_recognition` for real-time detection, with KNN classification for accurate identification from group photos — all connected to MySQL for persistent storage and reporting.
 
 **Impact**
-✦ Eliminated manual attendance effort through automated recognition workflows
-✦ Improved identification accuracy and streamlined class-wise reporting
-✦ Scalable to multiple classes and large student groups
+- ✦ Eliminated manual attendance effort through automated recognition workflows
+- ✦ Improved identification accuracy and streamlined class-wise reporting
+- ✦ Scalable to multiple classes and large student groups
 
 ---
 
@@ -127,9 +127,9 @@ Stack: Python · Pandas · NumPy · Scikit-learn · XGBoost · Imbalanced-learn 
 An end-to-end ML pipeline for industrial machine failure prediction, featuring engineered domain-specific features (Temperature Difference, Power Proxy), class-imbalance handling, and an interactive Streamlit dashboard with real-time risk scoring and automated maintenance scheduling.
 
 **Impact**
-✦ Achieved high Recall to minimize missed machine failure predictions
-✦ Improved predictive discrimination on class-imbalanced industrial datasets
-✦ Automated fleet-wide KPI monitoring and maintenance prioritization
+- ✦ Achieved high Recall to minimize missed machine failure predictions
+- ✦ Improved predictive discrimination on class-imbalanced industrial datasets
+- ✦ Automated fleet-wide KPI monitoring and maintenance prioritization
 
 ---
 
@@ -143,9 +143,9 @@ Stack: Python · Streamlit · Pandas · Plotly · Scikit-learn · Gemini API · 
 A full-stack CSV analytics platform with automated dataset-type detection, actionable insight generation with severity scoring, K-Means clustering with elbow-method visualization, and Gemini 2.0 Flash integration for natural language dataset querying. Exports tailored markdown reports for Analyst, Executive, and Student personas.
 
 **Impact**
-✦ Significantly reduced manual analytical effort through automated insight pipelines
-✦ Enabled natural language querying of raw datasets via Gemini API
-✦ Enhanced data interpretation with interactive drill-down dashboards
+- ✦ Significantly reduced manual analytical effort through automated insight pipelines
+- ✦ Enabled natural language querying of raw datasets via Gemini API
+- ✦ Enhanced data interpretation with interactive drill-down dashboards
 
 ### `04` · **Smart Diet — Personalized Diet Recommendation System**
 > `Aug 2025 – Oct 2025` · **AI/ML Project Developer**
@@ -157,9 +157,9 @@ Stack: Python · Streamlit · Pandas · NumPy · Scikit-learn · Random Forest �
 A Streamlit-based smart diet system that recommends personalized diet plans based on user health details, BMI, food preferences, and fitness goals. Uses a Random Forest model to generate food recommendations and MySQL to store user profiles and diet-related data.
 
 **Impact**
-✦ Generated personalized diet recommendations based on individual user inputs
-✦ Automated the meal suggestion process using ML-based recommendation logic
-✦ Simplified diet planning through an intuitive, easy-to-use web interface
+- ✦ Generated personalized diet recommendations based on individual user inputs
+- ✦ Automated the meal suggestion process using ML-based recommendation logic
+- ✦ Simplified diet planning through an intuitive, easy-to-use web interface
 
 ---
 
