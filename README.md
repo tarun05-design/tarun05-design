@@ -108,7 +108,7 @@
 Stack: Python · OpenCV · face_recognition · Scikit-learn · KNN · Flask · MySQL
 ```
 
-A Flask-based AI attendance management system that automates student tracking through facial recognition. Integrates OpenCV and `face_recognition` for real-time detection, with KNN classification for accurate identification from group photos — all connected to MySQL for persistent storage and reporting.
+A Flask-based AI attendance management system that automates student tracking through facial recognition on group photos. Integrates OpenCV and `face_recognition` for real-time detection, with KNN classification for accurate identification from group photos — all connected to MySQL for persistent storage and reporting.
 
 **Impact**
 - ✦ Eliminated manual attendance effort through automated recognition workflows
