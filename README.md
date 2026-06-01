@@ -39,7 +39,7 @@
   "role"      : "AI/ML Developer & AI Full-Stack Developer",
   "education" : "B.Tech — Artificial Intelligence & Data Science (2023–2027)",
   "location"  : "Chennai, Tamil Nadu, India",
-  "focus"     : ["Computer Vision", "Applied Machine Learning", "Full-Stack AI Systems"],
+  "focus"     : ["Data Science", "Applied Machine Learning", "Full-Stack AI Systems"],
   "building"  : ["Face Recognition Systems", "Predictive ML Pipelines", "AI-Powered Analytics Apps"],
   "currently" : "Building deployable ML systems that solve measurable, real-world problems",
   "motto"     : "Don't just train models — ship solutions."
