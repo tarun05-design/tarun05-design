@@ -153,6 +153,8 @@ A full-stack CSV analytics platform with automated dataset-type detection, actio
 - Enabled natural language querying of raw datasets via Gemini API
 - Enhanced data interpretation with interactive drill-down dashboards
 
+---
+
 ### `04` · **Smart Diet — Personalized Diet Recommendation System**
 > `Aug 2025 – Oct 2025` · **Personal Project**
 
