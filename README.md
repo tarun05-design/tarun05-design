@@ -102,7 +102,7 @@
 ---
 
 ### `01` · **SnapClass — Face Recognition Attendance System**
-> `Aug 2025 – Oct 2025` · **AI/ML Project Developer**
+> `Aug 2025 – Oct 2025` · **Completed**
 
 ```
 Stack: Python · OpenCV · face_recognition · Scikit-learn · KNN · Flask · MySQL
@@ -118,7 +118,7 @@ A Flask-based AI attendance management system that automates student tracking th
 ---
 
 ### `02` · **SentinelIQ — Predictive Maintenance Fleet Intelligence Dashboard**
-> `2026` · **Machine Learning & Analytics Developer**
+> `2026` · **Production Ready**
 
 ```
 Stack: Python · Pandas · NumPy · Scikit-learn · XGBoost · Imbalanced-learn · Plotly · Streamlit
@@ -134,7 +134,7 @@ An end-to-end ML pipeline for industrial machine failure prediction, featuring e
 ---
 
 ### `03` · **Automated CSV Analyst — AI-Powered Analytics Platform**
-> `Jan 2025 – Present` · **Full-Stack AI & Data Analytics Developer**
+> `Jan 2025 – Present` · **Open Source**
 
 ```
 Stack: Python · Streamlit · Pandas · Plotly · Scikit-learn · Gemini API · SciPy · statsmodels
@@ -148,7 +148,7 @@ A full-stack CSV analytics platform with automated dataset-type detection, actio
 - Enhanced data interpretation with interactive drill-down dashboards
 
 ### `04` · **Smart Diet — Personalized Diet Recommendation System**
-> `Aug 2025 – Oct 2025` · **AI/ML Project Developer**
+> `Aug 2025 – Oct 2025` · **Personal Project**
 
 ```
 Stack: Python · Streamlit · Pandas · NumPy · Scikit-learn · Random Forest · MySQL
