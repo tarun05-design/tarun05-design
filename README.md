@@ -10,7 +10,7 @@
    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
 ```
 
-### `{ Machine Learning Engineer }` · `< Data Product Engineer />`
+### `{ Machine Learning Engineer }` · `< Data Product Developer />`
 
 *Building intelligent systems, predictive pipelines, and AI-powered applications that solve real problems.*
 
@@ -26,7 +26,7 @@
 
 ```
 > whoami
-  tarun@dev ~ $ Machine Learning Engineer | Data Product Engineer
+  tarun@dev ~ $ Machine Learning Engineer | Data Product Developer
 ```
 
 ---
