@@ -26,7 +26,7 @@
 
 ```
 > whoami
-  tarun@dev ~ $ AI/ML Developer | AI Full-Stack Developer
+  tarun@dev ~ $ Machine Learning Engineer | Data Product Engineer
 ```
 
 ---
