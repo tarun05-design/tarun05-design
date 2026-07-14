@@ -108,6 +108,8 @@
 Stack: Python · OpenCV · face_recognition · Scikit-learn · KNN · Flask · MySQL
 ```
 
+🔗 **Live Demo:** [tarunp.pythonanywhere.com](https://tarunp.pythonanywhere.com/)
+
 A Flask-based AI attendance management system that automates student tracking through facial recognition on group photos. Integrates OpenCV and `face_recognition` for real-time detection, with KNN classification for accurate identification from group photos — all connected to MySQL for persistent storage and reporting.
 
 **Impact**
@@ -123,6 +125,8 @@ A Flask-based AI attendance management system that automates student tracking th
 ```
 Stack: Python · Pandas · NumPy · Scikit-learn · XGBoost · Imbalanced-learn · Plotly · Streamlit
 ```
+
+🔗 **Live Demo:** [sentineliq.streamlit.app](https://sentineliq.streamlit.app/)
 
 An end-to-end ML pipeline for industrial machine failure prediction, featuring engineered domain-specific features (Temperature Difference, Power Proxy), class-imbalance handling, and an interactive Streamlit dashboard with real-time risk scoring and automated maintenance scheduling.
 
@@ -140,6 +144,8 @@ An end-to-end ML pipeline for industrial machine failure prediction, featuring e
 Stack: Python · Streamlit · Pandas · Plotly · Scikit-learn · Gemini API · SciPy · statsmodels
 ```
 
+🔗 **Live Demo:** [automated-csv-analyst.streamlit.app](https://automated-csv-analyst.streamlit.app/)
+
 A full-stack CSV analytics platform with automated dataset-type detection, actionable insight generation with severity scoring, K-Means clustering with elbow-method visualization, and Gemini 2.0 Flash integration for natural language dataset querying. Exports tailored markdown reports for Analyst, Executive, and Student personas.
 
 **Impact**
@@ -154,12 +160,54 @@ A full-stack CSV analytics platform with automated dataset-type detection, actio
 Stack: Python · Streamlit · Pandas · NumPy · Scikit-learn · Random Forest · MySQL
 ```
 
+🔗 **Live Demo:** [smartdiet.streamlit.app](https://smartdiet.streamlit.app/)
+
 A Streamlit-based smart diet system that recommends personalized diet plans based on user health details, BMI, food preferences, and fitness goals. Uses a Random Forest model to generate food recommendations and MySQL to store user profiles and diet-related data.
 
 **Impact**
 - Generated personalized diet recommendations based on individual user inputs
 - Automated the meal suggestion process using ML-based recommendation logic
 - Simplified diet planning through an intuitive, easy-to-use web interface
+
+---
+
+### `05` · **PULSE — Ride Demand Forecast System**
+> `2026` · **Live**
+
+```
+Backend  : Flask · Scikit-learn · Pandas · NumPy · joblib
+Frontend : Vanilla HTML/CSS/JS (no build step) · hand-rolled SVG dial · Jinja2 templates
+```
+
+🔗 **Live Demo:** [pulse-ride-demand-forecast.onrender.com](https://pulse-ride-demand-forecast.onrender.com/)
+
+Forecasts hourly bike ride demand from weather and calendar conditions — for any date, past or future. Combines a scikit-learn regression pipeline with a lightweight, dependency-free frontend featuring a custom hand-drawn SVG dial for visualizing predicted demand.
+
+**Impact**
+- Delivered accurate hourly demand forecasts for arbitrary past or future dates
+- Built a zero-build-step frontend for fast, lightweight deployment
+- Combined weather and calendar features to capture seasonal and temporal demand patterns
+
+---
+
+### `06` · **SkyWise AI — Flight Delay Predictor**
+> `2026` · **Live**
+
+```
+UI Framework   : Streamlit (v1.32+)
+Data Processing: Pandas · NumPy
+Machine Learning: XGBoost · LightGBM
+Pre-processing : Scikit-learn (fitted categorical label encoders)
+```
+
+🔗 **Live Demo:** [skywise-ai.streamlit.app](https://skywise-ai.streamlit.app/)
+
+Predicts flight delays before takeoff. Enter your itinerary and get an instant delay forecast, styled like a boarding pass. Uses an ensemble of XGBoost and LightGBM models with pre-fitted categorical encoders for robust, real-time predictions.
+
+**Impact**
+- Delivered instant, itinerary-based delay predictions with a boarding-pass-styled UI
+- Leveraged an XGBoost + LightGBM ensemble for improved forecasting accuracy
+- Streamlined categorical preprocessing with pre-fitted encoders for consistent inference
 
 ---
 
