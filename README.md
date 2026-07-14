@@ -10,7 +10,7 @@
    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
 ```
 
-### `{ AI/ML Developer }` · `< AI Full-Stack Developer />`
+### `{ Machine Learning Engineer }` · `< Data Product Engineer />`
 
 *Building intelligent systems, predictive pipelines, and AI-powered applications that solve real problems.*
 
