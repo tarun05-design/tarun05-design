@@ -36,7 +36,7 @@
 ```json
 {
   "name"      : "Tarun P",
-  "role"      : "AI/ML Developer & AI Full-Stack Developer",
+  "role"      : "Machine Learning Engineer & Data Product Developer",
   "education" : "B.Tech — Artificial Intelligence & Data Science (2023–2027)",
   "location"  : "Chennai, Tamil Nadu, India",
   "focus"     : ["Data Science", "Applied Machine Learning", "Full-Stack AI Systems"],
@@ -56,7 +56,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 
 **Data Science & Machine Learning**
 
@@ -90,6 +89,7 @@
 
 ![OCI](https://img.shields.io/badge/Oracle_Cloud-000000?style=for-the-badge&logo=oracle&logoColor=00ff88)
 ![AWS](https://img.shields.io/badge/AWS_Fundamentals-000000?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=00ff88)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
