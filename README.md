@@ -63,12 +63,13 @@
 ![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-000000?style=for-the-badge&logo=xgboost&logoColor=00ff88)
-![Imbalanced-learn](https://img.shields.io/badge/Imbalanced--learn-000000?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=00ff88)
 
 **Computer Vision**
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=00ff88)
 ![face_recognition](https://img.shields.io/badge/face__recognition-000000?style=for-the-badge&logo=python&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge&logo=ultralytics&logoColor=00ff88)
 
 **Web Development & Backend**
 
@@ -89,6 +90,7 @@
 
 ![OCI](https://img.shields.io/badge/Oracle_Cloud-000000?style=for-the-badge&logo=oracle&logoColor=00ff88)
 ![AWS](https://img.shields.io/badge/AWS_Fundamentals-000000?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff88)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=00ff88)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
