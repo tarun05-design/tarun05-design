@@ -15,7 +15,7 @@
 *Building intelligent systems, predictive pipelines, and AI-powered applications that solve real problems.*
 
 [![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff88)](https://linkedin.com/in/tarunp)
-[![Portfolio](https://img.shields.io/badge/◈_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00ff88)](https://tarun-ml.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00ff88)](https://tarun-ml.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:tarunparthasarathy65@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tarun05-design&color=00ff88&style=flat-square&label=VISITORS)
