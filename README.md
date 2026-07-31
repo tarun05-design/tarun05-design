@@ -66,11 +66,13 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=00ff88)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-000000?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
 
-**Computer Vision**
+**Computer Vision & OCR**
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=00ff88)
 ![face_recognition](https://img.shields.io/badge/face__recognition-000000?style=for-the-badge&logo=python&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge&logo=ultralytics&logoColor=00ff88)
+![PyTesseract](https://img.shields.io/badge/PyTesseract-000000?style=for-the-badge&logo=python&logoColor=white)
+![TrOCR](https://img.shields.io/badge/TrOCR-000000?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
 
 **Web Development & Backend**
 
